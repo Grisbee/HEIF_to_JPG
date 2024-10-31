@@ -1,0 +1,4 @@
+/input/*
+!/input/empty_file_to_push_directory.txt
+/output/*
+!/output/empty_file_to_push_directory.txt
